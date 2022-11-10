@@ -1,8 +1,8 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: Y SHAVEDHA	
-Roll no: 212221230095
-Date of experiment: 10-11-2022
+### Name: Y SHAVEDHA	
+### Roll no: 212221230095
+### Date of experiment: 10-11-2022
 
 
 
